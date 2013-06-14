@@ -1,4 +1,4 @@
-# handlebars-md5
+# handlebars-md5 [![Build Status](https://travis-ci.org/neoziro/handlebars-md5.png?branch=master)](https://travis-ci.org/neoziro/handlebars-md5)
 
 Handlebars MD5 helper.
 
